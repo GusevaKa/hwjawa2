@@ -6,7 +6,7 @@ public class Main {
         int quantity;
         quantity = 20;
 
-     System.out.println(" количество бонусных миль " + (price / quantity));
+        System.out.println(" количество бонусных миль " + (price / quantity));
     }
 
 
